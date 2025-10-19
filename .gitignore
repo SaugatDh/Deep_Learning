@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+.ipynb_checkpoints/
+datasets/
+.venv/
+/Dog vs Cat/data/
+/Dog vs Cat/dogs-vs-cats/
+/14_Fake_New_Detector/train.csv
+/14_Fake_New_Detector/Data/Fake.csv
+/14_Fake_New_Detector/Data/True.csv
